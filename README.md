@@ -1,4 +1,4 @@
-![image](https://github.com/romeshjainn/romeshjainn/assets/71164336/8697a80d-d5d2-4e1c-a6a4-bf9f89b71cbc)# 💫 About Me:
+# 💫 About Me:
 Hey there! I'm Romesh Jain, a BCA graduate with a strong interest in web development. I'm eager to delve into the fascinating world of frontend development and expand my skills in HTML, CSS, and JavaScript.
 
 
