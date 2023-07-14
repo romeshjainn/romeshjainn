@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hey there! I'm Romesh Jain, a passionate web developer with a focus on frontend development. I graduated with a Bachelor's degree in Computer Applications (BCA), and I've been exploring the exciting world of web development ever since.
+![image](https://github.com/romeshjainn/romeshjainn/assets/71164336/8697a80d-d5d2-4e1c-a6a4-bf9f89b71cbc)# 💫 About Me:
+Hey there! I'm Romesh Jain, a BCA graduate with a strong interest in web development. I'm eager to delve into the fascinating world of frontend development and expand my skills in HTML, CSS, and JavaScript.
 
 
 ## 🌐 Socials:
