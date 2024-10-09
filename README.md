@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a dedicated professional with a profound passion for web development. My skill set includes proficiency in HTML, CSS, and JavaScript, complemented by a deep expertise in React and Firebase. I am committed to solving intricate problems and aspire to make significant contributions to the ever-evolving IT industry. My dedication lies in fostering innovation through dynamic collaboration with teams, with a focus on creating impactful solutions that drive progress. I am eager to connect and explore potential collaborations on cutting-edge projects.
+Full Stack Developer with 9 months of internship experience. Skilled in JavaScript, React Native, Next.js, Node.js, and Ionic Capacitor. Delivered 3 live freelancing projects, including Android apps, a QR code scanner, and a landing page, with one ongoing project that demonstrates my commitment to continuous development. Passionate about building responsive applications and solving challenges.
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=romeshjainn&theme=radical&hide_border=false)<br/>
 
