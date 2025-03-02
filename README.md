@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Developer with 9 months of internship experience. Skilled in JavaScript, React Native, Next.js, Node.js, and Ionic Capacitor. Delivered 3 live freelancing projects, including Android apps, a QR code scanner, and a landing page, with one ongoing project that demonstrates my commitment to continuous development. Passionate about building responsive applications and solving challenges.
+With 1.5 years of experience, I specialize in building dynamic web and mobile applications. I have worked on full-stack projects, focusing on React.js, React Native, Node.js, and API integrations. Currently exploring Python to expand my skill set.
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=romeshjainn&theme=radical&hide_border=false)<br/>
 
