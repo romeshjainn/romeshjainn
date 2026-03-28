@@ -1,9 +1,11 @@
 # 💫 About Me:
-🚀 Full-Stack Developer with 2+ years of experience building scalable web and mobile applications.
-I work across the stack — from React.js and Next.js frontends to React Native apps and Node.js backends with robust API integrations.
+🚀 Full-Stack Engineer with 2+ years of experience building production-grade web and mobile applications.
 
-Recently expanding into Python, focusing on automation, bots, and AI-driven workflows.
-Currently contributing at Digimonk Technologies, building high-performance admin panels and production-grade frontend systems.
+I specialize in React.js, Next.js, React Native, and Node.js, with hands-on experience in building scalable systems, real-time features, and high-performance UIs.
+
+Recently focused on Python, automation, and AI-driven development — creating tools and workflows that significantly accelerate development and reduce manual work.
+
+Currently at Digimonk Technologies, contributing to scalable admin systems and end-to-end product development.
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=romeshjainn&theme=radical&hide_border=false)<br/>
 
